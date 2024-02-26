@@ -2,7 +2,7 @@ Zoe NG
 
 
 I'm happy to share that I have completed the challenge 
-https://3000-freecodecam-boilerplate-uei7ftpb1ad.ws-us108.gitpod.io/
+[https://3000-freecodecam-boilerplate-uei7ftpb1ad.ws-us108.gitpod.io/](https://freecodecam-boilerplate-uei7ftpb1ad.ws-us108.gitpod.io)
 
 Now you can click on the link , and node.js extract the date and return a JSON with utc and unix timestamp
 if it is a empty parameter , it will return the current time in JSON with utc and unix timestamp
